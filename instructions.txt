@@ -1,0 +1,5 @@
+Instructions:
+ - You may guess either a letter or the full word - anything in between will not be accepted
+ - You have 9 tries to guess the password and save LongKat before all the security alarms will be set off!
+
+Good luck!
