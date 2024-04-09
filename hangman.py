@@ -24,7 +24,10 @@ def print_hangman():
     print("\n")
     print(display)
     print("\n")
-
+    print (len(word),end="")
+    print (" letters")
+    print(9 - stage,end="")
+    print (" fails left")
 #adds newly-guessed correct answers
 def check_letters(guess, word, display):
     guess = guess.lower()
@@ -77,3 +80,4 @@ else:
     print("LongKat is shaking her head. All the alarms have been set off - now Diana knows that you've been there.")
     print("womp womp")
     print("sadgers")
+    print(word)
